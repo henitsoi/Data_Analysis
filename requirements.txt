@@ -8,3 +8,5 @@ contractions
 imageio
 wordcloud
 tensorflow
+transformers
+datasets
